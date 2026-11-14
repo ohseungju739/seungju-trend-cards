@@ -1,0 +1,83 @@
+{
+  "title": "이번 주\nClaude 신기능 소식",
+  "period": "2026.11.09 – 11.13",
+  "subtitle": "Anthropic 공식 발표 기준 6가지",
+  "items": [
+    {
+      "date": "11월 9일",
+      "tag": "새 모델",
+      "headline": "Claude Fable 5.2 ·\nMythos 5.2 출시",
+      "points": [
+        "Fable 5.2는 한 번에 100만 토큰 분량의 내용을 다룰 수 있습니다.",
+        "Claude 앱, Claude Code, 개발자 플랫폼에서 제공됩니다.",
+        "Mythos 5.2는 Anthropic 인증을 받은 조직에만 제공됩니다."
+      ],
+      "source": "anthropic.com/claude-fable-and-mythos-5-2"
+    },
+    {
+      "date": "11월 10일",
+      "tag": "새 기능",
+      "headline": "Whiteboards · Sheets ·\nData 공개",
+      "points": [
+        "화이트보드에서 Claude와 함께 아이디어를 펼칠 수 있습니다.",
+        "Claude 안에서 시트(표)를 만들 수 있습니다.",
+        "Claude 안에서 데이터를 공유할 수 있습니다."
+      ],
+      "source": "claude.com/resources/articles/sheets-whiteboards-data"
+    },
+    {
+      "date": "11월 10일",
+      "tag": "새 기능",
+      "headline": "다른 앱이\nClaude 안에서 열립니다",
+      "points": [
+        "'인터랙티브 커넥터'가 확장되었습니다.",
+        "파트너사가 자기 앱을 Claude 안에 넣을 수 있습니다.",
+        "Claude가 그 앱 안에서 직접 작업할 수 있습니다."
+      ],
+      "source": "claude.com/resources/articles/interactive-connectors-full-tool"
+    },
+    {
+      "date": "11월 12일",
+      "tag": "베타",
+      "headline": "Claude Meetings\n화상회의에 참여하는 Claude",
+      "points": [
+        "Google Meet 통화에 Claude가 참가자로 들어옵니다.",
+        "회의 중 메모를 하고, 질문에 답하고, 문서나 슬라이드 같은 결과물을 만듭니다.",
+        "Team·Enterprise 요금제에서 베타로 순차 제공됩니다."
+      ],
+      "source": "support.claude.com/en/articles/18325154-use-claude-meetings"
+    },
+    {
+      "date": "11월 12일",
+      "tag": "업종별",
+      "headline": "Claude for\nManufacturing",
+      "points": [
+        "제조업을 위한 플러그인입니다.",
+        "스킬 17개와 커넥터 4개가 들어 있습니다.",
+        "견적서, 품질 보고서, 공급업체 요청서 작성을 돕습니다."
+      ],
+      "source": "claude.com/resources/articles/claude-for-manufacturing"
+    },
+    {
+      "date": "11월 12일",
+      "tag": "개발자",
+      "headline": "Managed Agents를\n우리 회사 서버에서",
+      "points": [
+        "Claude Managed Agents를 자체 인프라에서 운영할 수 있습니다.",
+        "에이전트, 세션, 세션 기록이 자체 인프라에 저장됩니다.",
+        "이용하려면 Anthropic 담당 영업팀에 요청해야 합니다."
+      ],
+      "source": "platform.claude.com/docs/en/managed-agents/self-hosted"
+    }
+  ],
+  "closing": {
+    "headline": "출처",
+    "lines": [
+      "Anthropic 뉴스룸 — anthropic.com/news",
+      "Claude 제품 소식 — claude.com/resources",
+      "Claude 릴리스 노트 — support.claude.com",
+      "개발자 플랫폼 릴리스 노트 — platform.claude.com"
+    ],
+    "note": "2026년 11월 14일에 공식 페이지에서 확인한 내용만 담았습니다."
+  }
+}
